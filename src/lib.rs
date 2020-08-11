@@ -9,6 +9,8 @@
 //!
 //!
 
+#![no_std]
+
 #[macro_use]
 mod eager;
 #[macro_use]
